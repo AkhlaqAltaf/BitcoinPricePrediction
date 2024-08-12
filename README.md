@@ -14,7 +14,7 @@ ORIGIAL FILE NAME WAS-->bitstampUSD_1-min_data_2012-01-01_to_2021-03-31.csv
 2. You need to Preprocess data (10 marks)
 3. You Need to Show Correlation Metrix (5 marks)
 3. You need to Visualize data (10 marks)
-3. You Need to Train model with Linear Regression And knn (20+10 marks)
+3. You Need to implement custom model Linear Regression And knn (20+10 marks)
 4. Show visualization of Prediction and actual for both knn prediction and Linear Regression prediction (10 marks)
 5. Show Cost for Linear and Knn model (5 marks)
 6. Use GridSearch For minimizing cost (10 marks)
